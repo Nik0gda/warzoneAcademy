@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "warzoneAcademy",
+      "exec_mode": "fork",
+      "args": "--downlevelIteration",
+      "script": "./src/index.ts",
+      "interpreter": "ts-node"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "guildID": "542244816340385802",
+  "adminRolesIDs": [
+    "568919691666522115",
+    "568921775728099329",
+    "569101126516080650",
+    "569476562429411340",
+    "777158205050454016"
+  ],
+  "tierRoles": [
+    {
+      "id": "776451913121267772",
+      "min": 0
+    },
+    {
+      "id": "776451817923018762",
+      "min": 3
+    },
+    {
+      "id": "776451423130353676",
+      "min": 5
+    }
+  ],
+  "voiceChannelsCategories": [
+    { "id": "781500187104772106", "name": "Squad", "limit": 4 },
+    { "id": "779133151719981056", "name": "Trio", "limit": 3 },
+    { "id": "781500027775483904", "name": "Duo", "limit": 2 }
+  ],
+  "everyoneRoleID": "542244816340385802",
+  "russianRoleID": "635172644836212752",
+  "europeRoleID": "776529356952305674",
+  "northAmericaRoleID": "635172666629947402",
+  "searchChannel": "776495171051061259",
+  "resultsChannel": "780796368826400798",
+  "leaderboardsChannel": "776450217440051201",
+  "registerChannel": "776448654826405908",
+  "readyChannel": "776450625613070366",
+  "exitEnterLogs": "776486031431827487",
+  "messageLogs": "776495772510060594",
+  "modmailLogs": "776585926222413825",
+  "voiceLogs": "776495809406435358",
+  "welcomeChannel": "776448602427228180",
+  "modmailChannel": "776461711946285056",
+  "regionReactionMessage": "776498678570549265",
+  "modmailMessage": "776566950490144768",
+  "modmailCategory": "776580470485024768",
+  "customMatchesCategory": "776450803975192576",
+  "voiceChannelsCategory": "779133151719981056",
+  "archivedChannelsCategory": "781565250834399303",
+  "restartMatchReactionID": "780875509981773885",
+  "registeredEmojiID": "780876542775132202",
+  "notRegisteredEmojiID": "780877053284188210",
+  "commentsEmojiID": "781261725537402971",
+  "minimumMatches": 150,
+  "maxTeams": 15,
+  "maxPlayers": 45,
+  "prefix": "!"
+}

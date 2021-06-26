@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Production build
+dist/
+
+# Modmail history 
+modmail/
+
+# dotenv environment variables file
+.env
+
+#Google API Credentials for Spreadsheet
+googleCreds.json
